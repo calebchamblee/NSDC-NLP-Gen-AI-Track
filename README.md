@@ -1,4 +1,4 @@
-# NSDC-Sports-Analytics-Track
+# NSDC-NLP/Gen-AI-Track
 Analyzing textual data to extract themes and sentiments, compare against other features such as likes and reply counts.
 
 **Project Overview:**
